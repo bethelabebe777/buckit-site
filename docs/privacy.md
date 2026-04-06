@@ -1,5 +1,7 @@
 # Privacy Policy
 
+Published April 1, 2026
+
 1. Information We Collect
    We collect information you provide when using BuckIt, including account details, goals, sessions, and notes.
 
