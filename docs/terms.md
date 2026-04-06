@@ -6,41 +6,31 @@ Published: April 1, 2026
 
 Thank you for using Buckit!
 
-1. Use of the App
+## Acceptance of Terms
 
-BuckIt is a personal productivity and time-tracking tool. You may use it for lawful purposes only.
+By using BuckIt, you agree to these Terms of Use.
 
-2. No Guarantees
+## Use of the App
 
-The app is provided "as is" without warranties of any kind.
+BuckIt is designed to help users track goals, sessions, and productivity. You agree to use the app responsibly and not misuse its features.
 
-We do not guarantee:
- Accuracy of tracked time or data  
- Continuous availability  
- Error-free performance  
+## User Accounts
 
-3. Responsibility
+You may sign in using Apple. You are responsible for maintaining access to your account.
 
-You are responsible for how you use the app and any decisions made based on its data.
+## Data and Content
 
-4. Data
+You are responsible for any content you create within the app, including goals, sessions, and notes.
 
-Your data is stored on your device and/or in your iCloud account. We do not directly control or access your personal data.
+## Availability
 
-5. Limitation of Liability
+We strive to keep BuckIt available and functional, but we do not guarantee uninterrupted access.
 
-We are not liable for:
+## Changes to Terms
 
- Data loss  
- Missed goals or sessions  
- Any indirect or consequential damages  
+We may update these Terms from time to time. Continued use of the app means you accept any changes.
 
-6. Changes
+## Contact
 
-We may update these terms at any time. Continued use of the app means you accept those changes.
-
-7. Contact
-
-For questions:
-Email:
-buckitsupport@gmail.com
+For questions, contact:
+[buckitsupport@gmail.com](mailto:buckitsupport@gmail.com)
