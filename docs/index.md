@@ -20,5 +20,5 @@ buckitsupport@gmail.com
 
  More
  [About](about.md)
- [Help](help)
+ [Help](help.md)
  
