@@ -17,3 +17,8 @@ buckitsupport@gmail.com
  Legal
  [Privacy Policy](privacy.md)
  [Terms of Use](terms.md) 
+
+ More
+ [About](about.md)
+ [Help](help)
+ 
